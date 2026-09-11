@@ -1,12 +1,12 @@
 Source: icons-octicons
 Section: graphics
 Priority: optional
-Maintainer: Lenik <icons-octicons@bodz.net>
+Maintainer: Lenik (谢继雷) <lenik@bodz.net>
 Build-Depends: debhelper-compat (= 13), meson, ninja-build, python3, iconlibutils
 Standards-Version: 4.6.2
 Homepage: https://primer.style/octicons/
-Vcs-Browser: https://github.com/lenik/pkg-icons-octicons
-Vcs-Git: https://github.com/lenik/pkg-icons-octicons.git
+Vcs-Browser: https://github.com/lenik/icons-octicons
+Vcs-Git: https://github.com/lenik/icons-octicons.git
 Rules-Requires-Root: no
 
 Package: icons-octicons
@@ -17,4 +17,4 @@ Description: GitHub Octicons
  GitHub Octicons
  .
  Provides icon assets under /usr/share/icons-octicons, a preview index, and a
- launcher `icons-octicons` (`iconlibutils -l octicons`).
+ launcher `icons-octicons` (`iconlib -l octicons`).

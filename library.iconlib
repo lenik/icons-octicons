@@ -1,4 +1,4 @@
-# Installed by icons-octicons — discovered as /usr/share/iconlibutils/library/octicons/
+# Installed by icons-octicons as /usr/share/iconlibutils/library/octicons
 name=octicons
 type=auto
 path=/usr/share/icons-octicons
@@ -7,3 +7,5 @@ license=MIT
 homepage=https://primer.style/octicons/
 description=GitHub Octicons
 package=icons-octicons
+icons_root=orig/icons
+faiss_index=/usr/share/icons-octicons
